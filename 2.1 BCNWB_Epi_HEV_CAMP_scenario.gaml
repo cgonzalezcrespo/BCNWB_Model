@@ -15,7 +15,7 @@ global {
 	file wia_shapefile <- file("../includes/WIACNP.shp");
 	file road_shapefile <- file("../includes/ROADDEF.shp");
 	file initial_wwb <- file("../includes/iniciowwb.shp");
-	file initial_swb <- file("../includes/CB.shp");
+	file initial_swb <- file("../includes/CB.shp");//("../includes/hepini.shp")
 	geometry shape <- envelope(road_shapefile);
 	graph road_network;
 	graph road_networkC;
