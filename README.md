@@ -1,5 +1,5 @@
 # BCNWB Agent Based Model
-Source code and data used to produce the BCNWB_Model
+Source code and data used to produce the BCNWB_Model in Gama platform
 
 # 1- BCNWB_prototype
 Source code used in the BCNWB_prototype
